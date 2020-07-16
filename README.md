@@ -7,4 +7,4 @@ The dataset is available <a href="https://www.kaggle.com/mlg-ulb/creditcardfraud
 
 I have used Random Forest Algorithm to find the important features in the dataset. I found results from both Random Forest and DecisionTree, to compare them. Main task was to find the frauds in the dataset. The dataset contains 492 cases of fraud.
 
-I have created a blog that explains each and every steps :https://meghakunder.github.io/
+I have created a blog that explains the steps:https://meghakunder.github.io/
